@@ -2,6 +2,7 @@
 Creating a Docker Compose file to set up Jenkins, SonarQube, and Nexus can help you manage and run these services together.
 Below is an example Docker Compose file (docker-compose.yml) that you can use. Note that you may need to adjust version numbers and configurations based on your specific requirements:
 Bash
+
 version: '3'
 
 services:
